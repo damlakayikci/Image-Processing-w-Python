@@ -1,2 +1,3 @@
 # Operations-with-images
-ppm image operations
+
+🌁 PPM image operations icluding 7 different filters (like balck/white filter and so on)
