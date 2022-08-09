@@ -8,12 +8,12 @@ Here is the original picture:
 
 ![](pics/jaconde.png)
 
-Here is the picture with black&white filer:
+Here is the picture with black&white filter:
 
 ![](pics/jaconde3.png)
 
 
-Here is another filter:
+Here is striped filter:
 
 
 ![](pics/outjaconde.png)
