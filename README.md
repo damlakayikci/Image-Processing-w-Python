@@ -6,14 +6,14 @@ For example
 
 Here is the original picture:
 
-![](pics/jaconde.ppm)
+![](pics/jaconde.png)
 
 Here is the picture with black&white filer:
 
-![](pics/jaconde3.ppm)
+![](pics/jaconde3.png)
 
 
 Here is another filter:
 
 
-![](pics/outjaconde.ppm)
+![](pics/outjaconde.png)
