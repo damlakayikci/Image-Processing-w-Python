@@ -17,3 +17,5 @@ Here is striped filter:
 
 
 ![](pics/outjaconde.png)
+
+The other filters can be found in the ppm folder. 
