@@ -10,6 +10,7 @@ Here is the original picture:
 
 Here is the picture with black&white filter:
 
+
 ![](pics/jaconde3.png)
 
 
