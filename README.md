@@ -1,6 +1,6 @@
 # Operations-with-images
 
-🌁 PPM image operations icluding 7 different filters (like black/white filter and so on)
+🌁 PPM image operations with 7 different filters (like black/white filter and so on)
 
 For example
 
